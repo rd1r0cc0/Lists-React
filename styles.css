@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Arial';
+  font-family: 'Times New Roman';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale:
 }
@@ -10,13 +10,13 @@ code {
 }
 
 .app {
-  background: #209cee;
+  background: orange;
   padding: 30px;
   height: 100vh;
 }
 
 .todo-list {
-  background: #e8e8e8;
+  background: blue;
   border-radius: 4px;
   padding: 5px;
   max-width: 400px;
@@ -42,5 +42,6 @@ code {
   box-shadow: none;
   padding: 1rem;
   height: 2.25em;
-   font-size: 24px;
+  font-size: 24px;
+  font-family: 'Times New Roman';
 }
